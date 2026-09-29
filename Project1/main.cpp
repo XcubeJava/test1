@@ -325,7 +325,7 @@ int arr[row][col];
 
 arr[0][0] = 100;
 
-for (int i = 0; i < row; i++) {
+for (int i = 0; i < row; i++) {jjhkhkkkkhk
 	for (int j = 0; j < col; j++) {
 		arr[i][j] = (std::rand() % 10);
 	}
